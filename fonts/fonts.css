@@ -1,0 +1,33 @@
+/* Forma DJR */
+@font-face {
+    font-family: Forma DJR Deck;
+    src: url(./FormaDJR/2-FormaDJRText-ExtraLight-Testing.ttf);
+}
+
+/* Proxima Nova */
+@font-face {
+    font-family: Proxima Nova;
+    src: url(./FormaDJR/HindSiliguri-Light.ttf);
+}
+
+/* Helvetica */
+@font-face {
+    font-family: Helvetica;
+    src: url(./Helvetica/Helvetica.ttf);
+}
+
+/* Neue Haas */
+@font-face {
+    font-family: NeueLight;
+    src: url(./Neue-Haas-Grotesk-Display-Pro/NeueHaasDisplayLight.ttf);
+}
+@font-face {
+    font-family: NeueXThin;
+    src: url(./Neue-Haas-Grotesk-Display-Pro/NeueHaasDisplayXThin.ttf);
+}
+
+/* AUTO WIDE || CondorWide */
+@font-face {
+    font-family: CondorWide;
+    src: url(./Autowide/Audiowide-Regular.ttf);
+}
